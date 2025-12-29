@@ -1,0 +1,24 @@
+{
+  "quizzes": [
+    {
+      "id": "demo",
+      "title": "Family Demo Quiz",
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Which planet is known as the Red Planet?",
+          "choices": ["Earth", "Mars", "Jupiter", "Venus"],
+          "correctIndex": 1,
+          "timeLimitSec": 20
+        },
+        {
+          "id": "q2",
+          "text": "2 + 2 = ?",
+          "choices": ["3", "4", "5", "22"],
+          "correctIndex": 1,
+          "timeLimitSec": 15
+        }
+      ]
+    }
+  ]
+}
