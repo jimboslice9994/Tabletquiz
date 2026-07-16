@@ -1,0 +1,9 @@
+{
+  "name": "Study Focus",
+  "short_name": "Study Focus",
+  "description": "Offline-first flashcards, quizzes, and spaced repetition for college study.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#2563eb"
+}
